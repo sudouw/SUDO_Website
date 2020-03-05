@@ -14,14 +14,14 @@ The website runs on the JAMstack (JavaScript, APIs, Markdown). You can read more
 ## Website Editing instructions:
 
 ### Intro
-- Website hosted [here](https://wonderful-raman-be76ce.netlify.com/ "SUDO website unfinished"), currently
-
+- Website is hosted [here](https://wonderful-raman-be76ce.netlify.com/ "SUDO website unfinished"), currently
 	- When ready, website will be hosted on the [sudo.world](https://sudo.world "sudo.world") domain
 
-- Edit content [here](https://wonderful-raman-be76ce.netlify.com/admin "admin page") (works like WordPress admin)
+- Edit website content [here](https://wonderful-raman-be76ce.netlify.com/admin "admin page") (works like WordPress admin)
+	- Website admin credentials are in GDrive
 
-	- Netlify credentials in Google Drive to master account sudok@uw.edu that can add admins to website
-	
+- Manage website [here](https://app.netlify.com/ "login") (deployment settings, adding website admins, etc.)
+	- Log in with SUDO GitHub account
 	
 ### Developing Website
 
