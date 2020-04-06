@@ -1,0 +1,36 @@
+---
+templateKey: blog-post
+title: Introducing Learning with SUDO!
+date: 2020-04-06T10:51:18.683Z
+description: We are excited to announce our Learning with SUDO weekly podcast!
+featuredpost: true
+featuredimage: /img/learn-w-sudo.jpg
+tags:
+  - learning
+  - podcast
+  - spotify
+  - SUDO
+---
+<!--StartFragment-->
+
+We're on Spotify! And Apple Podcasts!
+
+That's right...SUDO's hosting weekly podcasts on Tuesdays and Thursdays!
+
+On Tuesdays, we talk about interesting topics like dark design patterns, what AI is, what Informatics is all about and more!
+
+On Thursdays, we go over interesting weekly tech news!! Episode 1 is out now already:
+
+Spotify:[https://open.spotify.com/show/5dV2wtrBVC4BxMr6xtwF5h](https://open.spotify.com/show/5dV2wtrBVC4BxMr6xtwF5h?fbclid=IwAR0E5Rv0MUC9u5yG0Kns4jkHc88U6i2i5QlWRz8XGo4MDdOvKJWr0Yk3Ubg)
+
+Apple Podcasts:[https://podcasts.apple.com/…/…/learn-with-sudo/id1498750101…](https://podcasts.apple.com/us/podcast/learn-with-sudo/id1498750101?ign-mpt=uo%3D4&fbclid=IwAR2PEMcjFTcIWY9IArnnBLIFMSGF7SVVZH8ts5kQ_UQgeQIS2WGBh8Em_B4)
+
+Google Podcasts:[https://podcasts.google.com/…](https://l.facebook.com/l.php?u=https%3A%2F%2Fpodcasts.google.com%2F%3Ffeed%3DaHR0cHM6Ly9hbmNob3IuZm0vcy8xM2FkOGYzYy9wb2RjYXN0L3Jzcw%253D%253D%26fbclid%3DIwAR3dLnZdiwiTsMjK2vI5NqbRDIkt6URTATqg7d8m2p_Kt95wp2VRv6Jp-xo&h=AT2bxiST9FqObOxeoY-r0xUsQin4g58B1GPy-cHh2PvkoDIHZQnpYrwmCTnoSGoq95L6GxAf100J9JPYIThjeSIou6d-IIluWecHMgOBQ26YoAUty9loUozpcKFzyWLufwoDqjkxonp4A2sLajDXQFEuMACQ_vLYWGczugUKZz1isfmGapCqBMDc-V_B_pUrc1wSqPnkjxoe0HRO1DzelI0a21kIHs6Hxj_2rwQK9ZhbqA_sR4vWBsLbxlvuCJ3iWDAlF06WyjeNzSjYg2LJcg8cBom3_Nj2eKxjlMP6VD118RV55Ws8ob9fGRWwKtEn9YxxHCErQlZ3-fOox-x8T4-WuNvWFpyo8qfvQw1_h4HYQ7JOIAwDwwoGQpQ3NmPj22RfMPwSVxHyqU_j5ASWb4C4L-lPrAPjeeQiFvBPWGEisJ-Iu0EM4bD8iTEeA25TAwyzPrd7E6tCvWfsZhTljcgcYSNLP5K0mpeHJaQdHksfdAYdMUFKwlDo_brg63gl4-Ehlr5os_8ME68uVVyeSBLlIl0ju0sSzTHWmwphGOg9xOcyN7r_B3njcSPD9GTOr5AsDkgPC-mL_VlxfmR2AmXst03CXrrKXkj2OHQjwv7FoUPtYuL3QjUDA6_c8As)
+
+Overcast:[https://overcast.fm/+X6-a3_qmQ](https://l.facebook.com/l.php?u=https%3A%2F%2Fovercast.fm%2F%2BX6-a3_qmQ%3Ffbclid%3DIwAR2eXV6eFU-QpNQpdUZsZguRch1kN43EtcFtjJVftoMRlCOXSZtazjYWfXw&h=AT0YwTH_Ova8eSJpQVRSbmxs2o06ewxBsFrmgdL5qlq8pI8Xpxdo1V65Lp70X7ZsZgCBGhlK4-hbEipBWJPPOOIKLxB6TO75_a6I3OQq_YeJq6rQ5DnB2OLf275TW0672lgmDAHBjdSfjNVhbVFMIiw7aKW1WBsuw0w1nrzizt78ZXPiJ2yQGyMfmJiQ7x_mxAHIO3Ka-xh7nKgo7iVXr6RVd3RXPoLyHyHsOiyjNXFu89H8xNuhWiRzwGgJabHiqCayeNRKuZ6h_vtQOAsSZcvwjEMUZfo3fjF7EVOZezMXf3xPYYU3J8fzvUJZXyGD99st73x0rV92yQdKcctbbxi6pNLBXlZgc3RjyLpxqpuspTIIbCpEnk6005sQ6EHSr8pPSrRbxKGAytC2RjstQf43a-JN6xOJ-il71WaVikKw-0r_QMJP2WGiP3PpuoGeSfwHCH_MHQgJJn4d-IclX--p0LKC81Dj72UEcxa2t_wyQ8g9q7vzT7gnNLdT2j91be9eiHp3gi_G01A6y2Bo71DiYWcmLM1DalJP0Fm2VxjGRnAZ1bkSBDYhftmnCXJK73mau_Rgq_aGaJpZP2CFK-9JDuwCXcjmKmKOzVan4sINrqfFNaAh3AsRK5l-WbE)
+
+Breaker:[https://www.breaker.audio/learn-with-sudo](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.breaker.audio%2Flearn-with-sudo%3Ffbclid%3DIwAR2lHGhTOCu77hPJvogrXIcZunFvPvQQiiMTEbwATUHvVdIEDzUVPOI1nuU&h=AT0jumeDDYqc8m581arU_nw-bYcPG1hAEcdPvQbQWGGoa60QN4YdJAPaAaJTuBx7Ut9-JaMIabx_-GQRD70uTcO7uMkPzSBGqv59J1u520jzD4WJJEDnsedkF--vYPGctifqzoiJEvgWxOSg1mUe_ZYMEX4moPbxO1TTbbXvInBDMZzCxtxmS9HF4IXNx34HrR6d9Xz_crQH2aNe5oB6uGqBCrWG2-u01-HACcT0ZiNI7v4_jX2rRkuTlscjl9TQUTHdWSYY4ADbdsf-GmOtIYrJG9jgq3_SMgnvddFOsYMI3jN1ZhZtJwXMEzo_MZ7p7TyjrEycGTd3DZI1TyiGZw4zHLznvyIsmNr03QNYYJXSgOcJN2G3jXmutb9qcWMsHuVjz6_dn9x_1qhsRXd6dcFZabfQY4em1G4krdQPwJU40E1dQf4GcOBmki9VjUet0BCOBq9qLOd0fg75KpRulSq8IXQCWh1e1zXWqfduGVLK65yQzIBDpZjhhGe7ExJXPRnW_25Ml4qdGAqlIc1XC6ARwS0bv9cPWRqcvSHQWGpk2f7RKNz7oY3tgp-pvym-rJmAX4z-35JXIguVLBsVVTs8rI9ZPEyFs3bl6Hl1BdKugn40Yni8NGPxGTVAPTg)
+
+Anchor & more:[https://anchor.fm/learn-with-sudo](https://l.facebook.com/l.php?u=https%3A%2F%2Fanchor.fm%2Flearn-with-sudo%3Ffbclid%3DIwAR1nv0yLpO1cYQ-VJDo4Ce0v6a4Eq1yuXUijMB6tiPj4gr6fqnuQGMPffxY&h=AT0IwYdnWyVbbK9KcyMquKFRg8CzQWMQdV1U619wA32U15kYOpmuaGfcGcjHSRUkdWxMfpsmb17CZHevKsBcVYVwford1r9qjqdRr7vREZOuJ_cOxuSr992zskEWUo7xNkWxWsxbpnAMiojjcjIydU72cxxa1lA6VUyuMeTzDf4ImBIpCBygG0MQCDR_j5_DD6LcVVqOdaxTvP72lLgETa_xt0COZUJ8YwqFnBR7T51JJvA9kVhQUMDRus7NXAnzl54gYnXbqengiEgXu6lbOqGrFTEsTnrlLOBKskAJ9-Jgy6pX8XHk49aUI1h3wQuaCOeBV_HaRB7qmdETaawmAGnerkOCj9rqL7bve_lidmt1Di7QZAOhGHaO5fHrXnO14o4hB7mAHzB4DnzmbU2vaK3lugFEVXfJrCDn1gABQQfCn7kMzHOnchtLecl4TZNuxWerokuBvhr4Vh6nnQiY7vp3Q1GlU7fsyURVmia0QzV7wBE3SZYRI3B2eZe15WxOe49Z_96Mp2xPvxwxBbPt5TFTEOFt8HTDiRl6A2b--ttUP9mOROWSRYvfv0CnPt_a-nxSWps4vhuJTWP_y_J2_wc3Q3Ts8cDkuu6UkMDBn76X1OWJS9zkYUqJL2OzxfM)
+
+<!--EndFragment-->
