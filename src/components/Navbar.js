@@ -1,7 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import github from '../img/github-icon.svg'
-import logo from '../img/lowResLogo.png'
+import logo from '../img/logo.png'
+import facebook from '../img/social/facebook.svg'
+import spotify from '../img/social/Spotify_Icon_RGB_Black.png'
+import instagram from '../img/social/instagram.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -42,7 +44,7 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+              <img src={logo} alt="SUDO" />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -63,29 +65,40 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About Us
               </Link>
-              <Link className="navbar-item" to="/products">
+              <a className="navbar-item" target="_blank" href="https://www.facebook.com/pg/SudoUW/events/">
                 Events
-              </Link>
+              </a>
               <Link className="navbar-item" to="/blog">
-                Store
+                Latest Stories
               </Link>
+              <a className="navbar-item" target="_blank" href="http://store.sudo.world">
+                Store
+              </a>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/contact/examples">
-                Form Examples
-              </Link>
             </div>
             <div className="navbar-end has-text-centered">
-              <a
-                className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <span className="icon">
-                  <img src={github} alt="Github" />
-                </span>
+              <a className="navbar-item" title="facebook" href="https://www.facebook.com/SudoUW">
+                <img
+                  src={facebook}
+                  alt="Facebook"
+                  style={{ width: '2em', height: '2em' }}
+                />
+              </a>
+              <a className="navbar-item" title="spotify" href="https://open.spotify.com/show/5dV2wtrBVC4BxMr6xtwF5h?fbclid=IwAR1GAyBGVQE4xlyfjZ7X9ZpcdNv8vVsDR0Qao6ky6duLKE-vXOvqJH4xJG8">
+                <img
+                  src={spotify}
+                  alt="Spotify"
+                  style={{ width: '2em', height: '2em' }}
+                />
+              </a>
+              <a className="navbar-item" title="instagram" href="https://www.instagram.com/sudo_uw/">
+                <img
+                  src={instagram}
+                  alt="Instagram"
+                  style={{ width: '2em', height: '2em' }}
+                />
               </a>
             </div>
           </div>

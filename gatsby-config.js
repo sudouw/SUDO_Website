@@ -1,10 +1,19 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'SUDO',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'SUDO was founded to provide greater representation and resources for the informatics majors and prospective students, focusing on empowering the international student body.',
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        useMozJpeg: false,
+        stripMetadata: true,
+        defaultQuality: 80,
+      },
+    },
+    'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
@@ -29,8 +38,7 @@ module.exports = {
         name: 'images',
       },
     },
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
+    
     {
       resolve: 'gatsby-transformer-remark',
       options: {
