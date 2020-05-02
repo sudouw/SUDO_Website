@@ -66,7 +66,7 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <a className="btn" target="_blank" href="https://www.facebook.com/pg/SudoUW/events/">
+                    <a className="btn" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/pg/SudoUW/events/">
                       See all our events on Facebook!
                     </a>
                   </div>

@@ -65,13 +65,13 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/about">
                 About Us
               </Link>
-              <a className="navbar-item" target="_blank" href="https://www.facebook.com/pg/SudoUW/events/">
+              <a className="navbar-item" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/pg/SudoUW/events/">
                 Events
               </a>
               <Link className="navbar-item" to="/blog">
                 Latest Stories
               </Link>
-              <a className="navbar-item" target="_blank" href="http://store.sudo.world">
+              <a className="navbar-item" target="_blank" rel="noopener noreferrer" href="http://store.sudo.world">
                 Store
               </a>
               <Link className="navbar-item" to="/contact">
